@@ -202,7 +202,7 @@ int main() {
             case 5: {
                 int studentID;
                 string bookName;
-                cout << "Enter student ID: ";
+                cout << "Enter student ID:  ";
                 cin >> studentID;
                 cout << "Enter book name to return: ";
                 cin >> bookName;
